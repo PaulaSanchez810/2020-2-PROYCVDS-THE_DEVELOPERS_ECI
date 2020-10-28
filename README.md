@@ -10,4 +10,4 @@
 
 **Creacion de tabla base de datos
 
-.![panel de control]()
+.![panel de control](https://github.com/PaulaSanchez810/2020-2-PROYCVDS-THE_DEVELOPERS_ECI/blob/main/Imagenes/MicrosoftTeams-image%20(2).png)
