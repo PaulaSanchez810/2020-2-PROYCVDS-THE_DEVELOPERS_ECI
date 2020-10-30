@@ -1,0 +1,5 @@
+edu\eci\cvds\entities\Usuario.class
+edu\eci\cvds\bean\UsuarioBean.class
+edu\eci\cvds\Main.class
+edu\eci\cvds\persistence\mappers\MyBatisUsuarioDAO.class
+edu\eci\cvds\persistence\UsuarioDao.class
