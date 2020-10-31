@@ -22,7 +22,6 @@ public class MyBatisUsuarioDAO implements UsuarioDAO {
         }
     }
 
-
     public List<Usuario> consultarUsuarios() throws PersistenciaException{
         try {
             return usuarioMapper.consultarUsuarios();
