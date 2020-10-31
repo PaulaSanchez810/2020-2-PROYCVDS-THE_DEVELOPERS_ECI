@@ -16,13 +16,28 @@ public class Usuario {
     }
 
     public void setNombre(String nombre){this.nombre = nombre;}
+
     public  void setContrasena(String contrasena){this.contrasena=contrasena;}
+
     public void setEstado(String estado){this.estado=estado;}
+
     public void setCorreo(String correo){this.correo=correo;}
+
     public void setRol(String rol){this.rol=rol;}
+
     public String getNombre(){return this.nombre;}
+
     public String getContrasena(){return this.contrasena;}
+
     public String getEstado(){return this.estado;}
+
     public String getCorreo(){return this.correo;}
+
     public String getRol(){return this.rol;}
+
+    @Override
+    public String toString() {
+        return "Usuario [ nombre=" + nombre + ", contrasena=" + contrasena + ", estado=" + estado  +", email=" + correo
+                    + ", rol=" + rol + " ]";
+    }
 }

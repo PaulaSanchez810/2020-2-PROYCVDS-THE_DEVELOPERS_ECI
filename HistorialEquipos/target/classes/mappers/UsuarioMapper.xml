@@ -7,14 +7,7 @@
         SELECT
         *
         FROM
-        usuarios
-        WHERE correo = #{correo}
-    </select>
-
-    <select id="consultarUsuarios" resultMap="UsuarioResult">
-        SELECT
-        *
-        FROM
-        usuarios
+        Usuario
+        WHERE userName = #{userName}
     </select>
 </mapper>

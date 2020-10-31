@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [30/Oct/2020:17:50:33 -0500] "GET / HTTP/1.1" 200 3439 http-bio-8080-exec-1 460
+0:0:0:0:0:0:0:1 - - [30/Oct/2020:17:50:33 -0500] "GET /js/bootstrap.min.js HTTP/1.1" 404 989 http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [30/Oct/2020:17:50:33 -0500] "GET /css/bootstrap.min.css HTTP/1.1" 404 993 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [30/Oct/2020:17:50:33 -0500] "GET /fondo.jpg HTTP/1.1" 404 969 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [30/Oct/2020:17:50:34 -0500] "GET /js/bootstrap.min.js HTTP/1.1" 404 989 http-bio-8080-exec-6 1

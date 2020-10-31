@@ -1,5 +1,8 @@
-E:\UNIVERSIDAD\8 semestre\CVDS\PROYECTO FINAL\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\Main.java
-E:\UNIVERSIDAD\8 semestre\CVDS\PROYECTO FINAL\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\persistence\UsuarioDao.java
-E:\UNIVERSIDAD\8 semestre\CVDS\PROYECTO FINAL\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\bean\UsuarioBean.java
-E:\UNIVERSIDAD\8 semestre\CVDS\PROYECTO FINAL\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\entities\Usuario.java
-E:\UNIVERSIDAD\8 semestre\CVDS\PROYECTO FINAL\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\persistence\mappers\MyBatisUsuarioDAO.java
+C:\Users\Usuario\Desktop\universidad\CVDS\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\Main.java
+C:\Users\Usuario\Desktop\universidad\CVDS\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\persistence\mybatisimpl\mappers\UsuarioMapper.java
+C:\Users\Usuario\Desktop\universidad\CVDS\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\bean\UsuarioBean.java
+C:\Users\Usuario\Desktop\universidad\CVDS\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\service\ServicesHistorialEquiposProyectoFactory.java
+C:\Users\Usuario\Desktop\universidad\CVDS\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\persistence\UsuarioDao.java
+C:\Users\Usuario\Desktop\universidad\CVDS\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\service\ServicesUsuario.java
+C:\Users\Usuario\Desktop\universidad\CVDS\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\persistence\mybatisimpl\MyBatisUsuarioDAO.java
+C:\Users\Usuario\Desktop\universidad\CVDS\2020-2-PROYCVDS-THE_DEVELOPERS_ECI\HistorialEquipos\src\main\java\edu\eci\cvds\entities\Usuario.java
